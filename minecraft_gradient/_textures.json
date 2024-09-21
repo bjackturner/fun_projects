@@ -1,0 +1,79 @@
+{
+    "textures": [
+        "acacia_log",
+        "acacia_log_top",
+        "acacia_planks",
+        "acacia_trapdoor",
+        "stripped_acacia_log",
+        "stripped_acacia_log_top",
+
+        "bamboo_block",
+        "bamboo_block_top",
+        "bamboo_mosaic",
+        "bamboo_planks",
+        "bamboo_trapdoor",
+
+        "birch_log",
+        "birch_log_top",
+        "birch_planks",
+        "birch_trapdoor",
+        "stripped_birch_log",
+        "stripped_birch_log_top",
+
+        "cherry_log",
+        "cherry_log_top",
+        "cherry_planks",
+        "cherry_trapdoor",
+        "stripped_cherry_log",
+        "stripped_cherry_log_top",
+
+        "crimson_log",
+        "crimson_log_top",
+        "crimson_planks",
+        "crimson_trapdoor",
+        "stripped_crimson_log",
+        "stripped_crimson_log_top",
+
+        "dark_oak_log",
+        "dark_oak_log_top",
+        "dark_oak_planks",
+        "dark_oak_trapdoor",
+        "stripped_dark_oak_log",
+        "stripped_dark_oak_log_top",
+
+        "jungle_log",
+        "jungle_log_top",
+        "jungle_planks",
+        "jungle_trapdoor",
+        "stripped_jungle_log",
+        "stripped_jungle_log_top",
+
+        "mangrove_log",
+        "mangrove_log_top",
+        "mangrove_planks",
+        "mangrove_trapdoor",
+        "stripped_mangrove_log",
+        "stripped_mangrove_log_top",
+
+        "oak_log",
+        "oak_log_top",
+        "oak_planks",
+        "oak_trapdoor",
+        "stripped_oak_log",
+        "stripped_oak_log_top",
+
+        "spruce_log",
+        "spruce_log_top",
+        "spruce_planks",
+        "spruce_trapdoor",
+        "stripped_spruce_log",
+        "stripped_spruce_log_top",
+
+        "warped_log",
+        "warped_log_top",
+        "warped_planks",
+        "warped_trapdoor",
+        "stripped_warped_log",
+        "stripped_warped_log_top"
+    ]
+}
