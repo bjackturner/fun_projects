@@ -98,7 +98,7 @@ def build_block_array(external_path=None) -> list:
 blocks = build_block_array()
 
 for i, block in enumerate(blocks[1:]):
-    print(f"{i} = {block.name}")
+    print(f"{i+1} = {block.name} - RGB = {block.rgb}")
 
 
 print(len(blocks))

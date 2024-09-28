@@ -1,313 +1,1618 @@
 {
-    "textures": [
-        "acacia_log",
-        "acacia_log_top",
-        "acacia_planks",
-        "acacia_trapdoor",
-        "amethyst_block",
-        "andesite",
-        "bamboo_block",
-        "bamboo_block_top",
-        "bamboo_mosaic",
-        "bamboo_planks",
-        "bamboo_trapdoor",
-        "basalt",
-        "bedrock",
-        "birch_log",
-        "birch_log_top",
-        "birch_planks",
-        "birch_trapdoor",
-        "black_concrete",
-        "black_concrete_powder",
-        "black_glazed_terracotta",
-        "black_stained_glass",
-        "black_terracotta",
-        "black_wool",
-        "blackstone",
-        "blue_concrete",
-        "blue_concrete_powder",
-        "blue_glazed_terracotta",
-        "blue_ice",
-        "blue_stained_glass",
-        "blue_terracotta",
-        "blue_wool",
-        "bone_block",
-        "bone_block_top",
-        "brain_coral_block",
-        "bricks",
-        "brown_concrete",
-        "brown_concrete_powder",
-        "brown_glazed_terracotta",
-        "brown_stained_glass",
-        "brown_terracotta",
-        "brown_wool",
-        "bubble_coral_block",
-        "calcite",
-        "cherry_log",
-        "cherry_log_top",
-        "cherry_planks",
-        "cherry_trapdoor",
-        "chiseled_nether_bricks",
-        "chiseled_polished_blackstone",
-        "chiseled_quartz_block",
-        "chiseled_red_sandstone",
-        "chiseled_sandstone",
-        "chiseled_stone_bricks",
-        "clay",
-        "coal_block",
-        "coal_ore",
-        "coarse_dirt",
-        "cobbled_deepslate",
-        "cobblestone",
-        "copper_block",
-        "copper_ore",
-        "cracked_deepslate_bricks",
-        "cracked_deepslate_tiles",
-        "cracked_nether_bricks",
-        "cracked_polished_blackstone_bricks",
-        "cracked_stone_bricks",
-        "crimson_planks",
-        "crimson_stem",
-        "crimson_stem_top",
-        "crimson_trapdoor",
-        "cut_copper",
-        "cut_red_sandstone",
-        "cut_red_sandstone_top",
-        "cut_sandstone",
-        "cut_sandstone_top",
-        "cyan_concrete",
-        "cyan_concrete_powder",
-        "cyan_glazed_terracotta",
-        "cyan_stained_glass",
-        "cyan_terracotta",
-        "cyan_wool",
-        "dark_oak_log",
-        "dark_oak_log_top",
-        "dark_oak_planks",
-        "dark_oak_trapdoor",
-        "dark_prismarine",
-        "deepslate",
-        "deepslate_bricks",
-        "dead_brain_coral_block",
-        "dead_bubble_coral_block",
-        "dead_fire_coral_block",
-        "dead_horn_coral_block",
-        "dead_tube_coral_block",
-        "deepslate_coal_ore",
-        "deepslate_copper_ore",
-        "deepslate_diamond_ore",
-        "deepslate_emerald_ore",
-        "deepslate_gold_ore",
-        "deepslate_iron_ore",
-        "deepslate_lapis_ore",
-        "deepslate_redstone_ore",
-        "deepslate_tiles",
-        "diamond_ore",
-        "diorite",
-        "dirt",
-        "dirt_path",
-        "dripstone_block",
-        "emerald_ore",
-        "end_stone",
-        "end_stone_bricks",
-        "exposed_copper",
-        "exposed_cut_copper",
-        "diamond_block",
-        "emerald_block",
-        "fire_coral_block",
-        "glowstone",
-        "gold_ore",
-        "gold_block",
-        "granite",
-        "grass_block",
-        "gravel",
-        "gray_concrete",
-        "gray_concrete_powder",
-        "gray_glazed_terracotta",
-        "gray_stained_glass",
-        "gray_terracotta",
-        "gray_wool",
-        "green_concrete",
-        "green_concrete_powder",
-        "green_glazed_terracotta",
-        "green_stained_glass",
-        "green_terracotta",
-        "green_wool",
-        "hay_block",
-        "honey_block",
-        "honeycomb_block",
-        "horn_coral_block",
-        "ice",
-        "iron_block",
-        "iron_ore",
-        "jungle_log",
-        "jungle_log_top",
-        "jungle_planks",
-        "jungle_trapdoor",
-        "lapis_block",
-        "lapis_ore",
-        "light_blue_concrete",
-        "light_blue_concrete_powder",
-        "light_blue_glazed_terracotta",
-        "light_blue_stained_glass",
-        "light_blue_terracotta",
-        "light_blue_wool",
-        "light_gray_concrete",
-        "light_gray_concrete_powder",
-        "light_gray_glazed_terracotta",
-        "light_gray_stained_glass",
-        "light_gray_terracotta",
-        "light_gray_wool",
-        "lime_concrete",
-        "lime_concrete_powder",
-        "lime_glazed_terracotta",
-        "lime_stained_glass",
-        "lime_terracotta",
-        "lime_wool",
-        "magenta_concrete",
-        "magenta_concrete_powder",
-        "magenta_glazed_terracotta",
-        "magenta_stained_glass",
-        "magenta_terracotta",
-        "magenta_wool",
-        "magma_block",
-        "mangrove_log",
-        "mangrove_log_top",
-        "mangrove_planks",
-        "mangrove_trapdoor",
-        "melon",
-        "moss_block",
-        "mossy_cobblestone",
-        "mossy_stone_bricks",
-        "mud",
-        "mud_bricks",
-        "nether_bricks",
-        "nether_gold_ore",
-        "nether_quartz_ore",
-        "netherite_block",
-        "nether_wart_block",
-        "netherrack",
-        "oak_log",
-        "oak_log_top",
-        "oak_planks",
-        "oak_trapdoor",
-        "obsidian",
-        "ochre_froglight",
-        "orange_concrete",
-        "orange_concrete_powder",
-        "orange_glazed_terracotta",
-        "orange_stained_glass",
-        "orange_terracotta",
-        "orange_wool",
-        "oxidized_copper",
-        "oxidized_cut_copper",
-        "packed_ice",
-        "packed_mud",
-        "pearlescent_froglight",
-        "pink_concrete",
-        "pink_concrete_powder",
-        "pink_glazed_terracotta",
-        "pink_stained_glass",
-        "pink_terracotta",
-        "pink_wool",
-        "polished_andesite",
-        "polished_basalt",
-        "polished_blackstone",
-        "polished_blackstone_bricks",
-        "polished_deepslate",
-        "polished_diorite",
-        "polished_granite",
-        "prismarine",
-        "prismarine_bricks",
-        "pumpkin",
-        "purple_concrete",
-        "purple_concrete_powder",
-        "purple_glazed_terracotta",
-        "purple_stained_glass",
-        "purple_terracotta",
-        "purple_wool",
-        "purpur_block",
-        "purpur_pillar",
-        "quartz_block",
-        "quartz_bricks",
-        "quartz_pillar",
-        "raw_copper_block",
-        "raw_gold_block",
-        "raw_iron_block",
-        "redstone_block",
-        "red_concrete",
-        "red_concrete_powder",
-        "red_glazed_terracotta",
-        "red_nether_bricks",
-        "red_sand",
-        "red_sandstone",
-        "red_stained_glass",
-        "red_terracotta",
-        "red_wool",
-        "redstone_ore",
-        "sand",
-        "sandstone",
-        "sculk",
-        "sea_lantern",
-        "shroomlight",
-        "slime_block",
-        "smooth_basalt",
-        "smooth_quartz",
-        "smooth_red_sandstone",
-        "smooth_sandstone",
-        "smooth_stone",
-        "snow_block",
-        "soul_sand",
-        "soul_soil",
-        "spruce_log",
-        "spruce_log_top",
-        "spruce_planks",
-        "spruce_trapdoor",
-        "stone",
-        "stone_bricks",
-        "stripped_acacia_log",
-        "stripped_acacia_log_top",
-        "stripped_birch_log",
-        "stripped_birch_log_top",
-        "stripped_cherry_log",
-        "stripped_cherry_log_top",
-        "stripped_crimson_stem",
-        "stripped_crimson_stem_top",
-        "stripped_dark_oak_log",
-        "stripped_dark_oak_log_top",
-        "stripped_jungle_log",
-        "stripped_jungle_log_top",
-        "stripped_mangrove_log",
-        "stripped_mangrove_log_top",
-        "stripped_oak_log",
-        "stripped_oak_log_top",
-        "stripped_spruce_log",
-        "stripped_spruce_log_top",
-        "stripped_warped_stem",
-        "stripped_warped_stem_top",
-        "terracotta",
-        "tinted_glass",
-        "tube_coral_block",
-        "tuff",
-        "warped_planks",
-        "warped_stem",
-        "warped_stem_top",
-        "warped_trapdoor",
-        "weathered_copper",
-        "weathered_cut_copper",
-        "white_concrete",
-        "white_concrete_powder",
-        "white_glazed_terracotta",
-        "white_stained_glass",
-        "white_terracotta",
-        "white_wool",
-        "yellow_concrete",
-        "yellow_concrete_powder",
-        "yellow_glazed_terracotta",
-        "yellow_stained_glass",
-        "yellow_terracotta",
-        "yellow_wool"
-    ],
+    "logs": {
+        "acacia_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "acacia_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "birch_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "birch_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cherry_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cherry_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "crimson_stem": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "crimson_stem_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dark_oak_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dark_oak_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "jungle_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "jungle_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "mangrove_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "mangrove_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "oak_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "oak_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "spruce_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "spruce_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "warped_stem": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "warped_stem_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
 
-    "uniform":[]
+    "stripped_logs": {
+        "stripped_acacia_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_acacia_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_birch_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_birch_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_cherry_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_cherry_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_crimson_stem": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_crimson_stem_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_dark_oak_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_dark_oak_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_jungle_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_jungle_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_mangrove_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_mangrove_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_oak_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_oak_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_spruce_log": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_spruce_log_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_warped_stem": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "stripped_warped_stem_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "planks": {
+        "acacia_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "birch_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cherry_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "crimson_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dark_oak_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "jungle_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "mangrove_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "oak_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "spruce_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "warped_planks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "trapdoors": {
+        "acacia_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "birch_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cherry_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "crimson_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dark_oak_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "jungle_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "mangrove_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "oak_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "spruce_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "warped_trapdoor": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "sediment": {
+        "clay": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "coarse_dirt": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "crimson_nylium_side": {
+            "uniform": false,
+            "side": true,
+            "top": false,
+            "bottom": false,
+            "obtainable": true
+        },
+        "crimson_nylium_top": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "dirt": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dirt_path_top": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "farmland_top": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "farmland_top_hydrated": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "grass_block_side": {
+            "uniform": false,
+            "side": true,
+            "top": false,
+            "bottom": false,
+            "obtainable": true
+        },
+        "grass_block_top": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "gravel":{
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "ice": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "mud": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "mycelium_side": {
+            "uniform": false,
+            "side": true,
+            "top": false,
+            "bottom": false,
+            "obtainable": true
+        },
+        "mycelium_top": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "packed_ice": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "podzol_side": {
+            "uniform": false,
+            "side": true,
+            "top": false,
+            "bottom": false,
+            "obtainable": true
+        },
+        "podzol_top": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "red_sand": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "sand": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "snow": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "soul_sand": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "soul_soil": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "warped_nylium_side": {
+            "uniform": false,
+            "side": true,
+            "top": false,
+            "bottom": false,
+            "obtainable": true
+        },
+        "warped_nylium_top": {
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        }
+    },
+
+    "overworld_stone": {
+        "andesite": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "calcite": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cobbled_deepslate": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cobblestone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "deepslate": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "deepslate_top": {
+            "uniform": false,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "granite": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "mossy_cobblestone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_sandstone":{
+            "uniform": false,
+            "side": true,
+            "top": false,
+            "bottom": false,
+            "obtainable": true
+        },
+        "red_sandstone_bottom":{
+            "uniform": false,
+            "side": false,
+            "top": false,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_sandstone_top":{
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "sandstone":{
+            "uniform": false,
+            "side": true,
+            "top": false,
+            "bottom": false,
+            "obtainable": true
+        },
+        "sandstone_bottom":{
+            "uniform": false,
+            "side": false,
+            "top": false,
+            "bottom": true,
+            "obtainable": true
+        },
+        "sandstone_top":{
+            "uniform": false,
+            "side": false,
+            "top": true,
+            "bottom": false,
+            "obtainable": true
+        },
+        "stone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "tuff": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "overworld_stone_cut": {
+        "chiseled_deepslate": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cracked_deepslate_bricks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "deepslate_bricks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "deepslate_tiles": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_sandstone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "smooth_stone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "smooth_stone_slab": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "nether_stone": {
+        "blackstone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "netherrack": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+    "nether_stone_cut": {
+        "basalt": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "polished_basalt": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "polished_blackstone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "polished_blackstone_bricks": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+    "misc": {
+        "dripstone_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "chiseled_polished_blackstone": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "obsidian": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "smooth_basalt": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "concrete": {
+        "white_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "orange_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "magenta_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_blue_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "yellow_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "lime_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "pink_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "gray_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_gray_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cyan_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "purple_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "blue_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "brown_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "green_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "black_concrete": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "concrete_powder": {
+        "white_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "orange_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "magenta_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_blue_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "yellow_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "lime_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "pink_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "gray_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_gray_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cyan_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "purple_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "blue_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "brown_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "green_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "black_concrete_powder": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "terracotta": {
+        "terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "white_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "orange_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "magenta_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_blue_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "yellow_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "lime_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "pink_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "gray_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_gray_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cyan_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "purple_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "blue_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "brown_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "green_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "black_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "glazed_terracotta": {
+        "black_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "brown_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "blue_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cyan_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "gray_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "green_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_gray_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "lime_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "magenta_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "orange_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "pink_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "purple_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "white_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "yellow_glazed_terracotta": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "glass": {
+        "glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "tinted_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "black_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "green_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "brown_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "blue_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "purple_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cyan_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_gray_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "gray_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "pink_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "lime_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "yellow_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "orange_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "magenta_stained_glass": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "wool": {
+        "white_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "orange_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "magenta_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_blue_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "yellow_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "lime_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "pink_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "gray_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "light_gray_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "cyan_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "purple_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "blue_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "brown_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "green_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "red_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "black_wool": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    },
+
+    "coral": {
+        "brain_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "bubble_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "fire_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "horn_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dead_brain_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dead_bubble_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dead_fire_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dead_horn_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "dead_tube_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        },
+        "tube_coral_block": {
+            "uniform": true,
+            "side": true,
+            "top": true,
+            "bottom": true,
+            "obtainable": true
+        }
+    }
 }

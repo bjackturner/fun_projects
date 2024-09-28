@@ -10,4 +10,4 @@ def grad_2_point(start_block, end_block, num_block):
     return grad.append(end_block)
 
 
-grad_2_point(277, 18, 20)
+grad_2_point(278, 19, 20)
