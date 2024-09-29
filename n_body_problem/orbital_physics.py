@@ -3,6 +3,8 @@ import numpy as np
 # Contains all values and function to compute orbital trajectories of bodies
 class Planet:
     def __init__(self) -> None:
+
+        self.planet_ID = None
         
         ## Physics variables
         self.radius = None
@@ -24,6 +26,25 @@ class Planet:
         
         # Display variables 
         self.color = None
+
+    # Configures planet object for simulation function in planet manager
+    def config(self):
+
+        # Save mass of sphere (volume * density)
+        self.mass = self.density * 4/3 * np.pi * self.radius**3
+
+        # Update true state variables to numpy arrays
+        self.position = np.array(self.position)
+        self.velocity = np.array(self.velocity)
+        self.acceleration = np.zeros_like(self.velocity)
+
+        # Set partial vectors to equal true state variables
+        self.par_position = self.position
+        self.par_velocity = self.velocity
+        
+        # Set weighted sums to zeros
+        self.full_velocity = np.zeros_like(self.velocity)
+        self.full_acceleration = np.zeros_like(self.acceleration)
 
     # Returns gravitational acceleration acting on planet for use in RK4 time integration 
     def compute_gravitational_acceleration(self, planets):
@@ -59,7 +80,6 @@ class Planet:
 
         # Compute the gravitional force on the current planet which gives motion
         acceleration = self.compute_gravitational_acceleration(planets)
-        self.par_velocity = self.velocity + acceleration * dt
 
         # Update the true acceleration to object. velocity is depended on acceleration so it remains partial
         self.acceleration = (self.full_acceleration + acceleration)/6
